@@ -1,2 +1,6 @@
 # tic-tae-toe
-TIC TAE TOE Game !
+TA TE TI Basico en Python !
+
+main.py = ta te ti contra otra persona o contra "IA".
+
+
